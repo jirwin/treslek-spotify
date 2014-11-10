@@ -1,6 +1,6 @@
 {
   "name": "treslek-spotify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A treslek plugin that adds hooks for parsing Spotify URIs",
   "main": "index.js",
   "scripts": {
