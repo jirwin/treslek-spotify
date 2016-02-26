@@ -15,7 +15,10 @@
     "irc",
     "spotify"
   ],
-  "author": "Justin Gallardo <justin.gallardo@gmail.com>",
+  "authors": [
+    "Kevin Purdy <purdyk@gmail.com>",
+    "Justin Gallardo <justin.gallardo@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jirwin/treslek-spotify/issues"
